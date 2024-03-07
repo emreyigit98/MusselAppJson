@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Küçük Boy",
+    "price": 3.5,
+    "image_url": "https://raw.githubusercontent.com/emreyigit98/imageJson/master/mussels.png"
+  },
+  {
+    "name": "Orta Boy",
+    "price": 4.5,
+    "image_url": "https://raw.githubusercontent.com/emreyigit98/imageJson/master/mussels.png"
+  },
+  {
+    "name": "Büyük Boy",
+    "price": 3.5,
+    "image_url": "https://raw.githubusercontent.com/emreyigit98/imageJson/master/mussels.png"
+  }
+]
