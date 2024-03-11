@@ -7,11 +7,11 @@
   {
     "name": "Orta Boy",
     "price": 4.5,
-    "image_url": "https://raw.githubusercontent.com/emreyigit98/imageJson/master/mussels.png"
+    "image_url": "https://raw.githubusercontent.com/emreyigit98/imageJson/master/mussels1.jpg"
   },
   {
     "name": "Büyük Boy",
-    "price": 3.5,
+    "price": 5.5,
     "image_url": "https://raw.githubusercontent.com/emreyigit98/imageJson/master/mussels.png"
   }
 ]
