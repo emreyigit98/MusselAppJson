@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "customer_name": "Emre"
+    "customer_name": "Erdek Hasan"
   },
   {
     "id": 2,
-    "customer_name": "Elif"
+    "customer_name": "Avşa Ali Yiğit"
   },
   {
     "id": 3,
-    "customer_name": "Salih"
+    "customer_name": "Avşa Sinan"
   },
   {
     "id": 4,
-    "customer_name": "Ayşe"
+    "customer_name": "Düzler Batuhan"
   },
   {
     "id": 5,
-    "customer_name": "Hasan"
+    "customer_name": "Meryem"
   },
   {
     "id": 6,
-    "customer_name": "Sinan"
+    "customer_name": "Elden Müşteri"
   }
 ]
